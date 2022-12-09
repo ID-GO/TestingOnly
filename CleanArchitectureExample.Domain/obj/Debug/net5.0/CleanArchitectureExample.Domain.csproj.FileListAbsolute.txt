@@ -1,0 +1,17 @@
+C:\Users\indud\Desktop\CleanArchitectureExample-master\CleanArchitectureExample.Domain\bin\Debug\net5.0\CleanArchitectureExample.Domain.deps.json
+C:\Users\indud\Desktop\CleanArchitectureExample-master\CleanArchitectureExample.Domain\bin\Debug\net5.0\CleanArchitectureExample.Domain.dll
+C:\Users\indud\Desktop\CleanArchitectureExample-master\CleanArchitectureExample.Domain\bin\Debug\net5.0\CleanArchitectureExample.Domain.pdb
+C:\Users\indud\Desktop\CleanArchitectureExample-master\CleanArchitectureExample.Domain\bin\Debug\net5.0\CleanArchitectureExample.Domain.Core.dll
+C:\Users\indud\Desktop\CleanArchitectureExample-master\CleanArchitectureExample.Domain\bin\Debug\net5.0\CleanArchitectureExample.Domain.Core.pdb
+C:\Users\indud\Desktop\CleanArchitectureExample-master\CleanArchitectureExample.Domain\obj\Debug\net5.0\CleanArchitectureExample.Domain.csproj.AssemblyReference.cache
+C:\Users\indud\Desktop\CleanArchitectureExample-master\CleanArchitectureExample.Domain\obj\Debug\net5.0\CleanArchitectureExample.Domain.Resources.Messages.resources
+C:\Users\indud\Desktop\CleanArchitectureExample-master\CleanArchitectureExample.Domain\obj\Debug\net5.0\CleanArchitectureExample.Domain.csproj.GenerateResource.cache
+C:\Users\indud\Desktop\CleanArchitectureExample-master\CleanArchitectureExample.Domain\obj\Debug\net5.0\CleanArchitectureExample.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\indud\Desktop\CleanArchitectureExample-master\CleanArchitectureExample.Domain\obj\Debug\net5.0\CleanArchitectureExample.Domain.AssemblyInfoInputs.cache
+C:\Users\indud\Desktop\CleanArchitectureExample-master\CleanArchitectureExample.Domain\obj\Debug\net5.0\CleanArchitectureExample.Domain.AssemblyInfo.cs
+C:\Users\indud\Desktop\CleanArchitectureExample-master\CleanArchitectureExample.Domain\obj\Debug\net5.0\CleanArchitectureExample.Domain.csproj.CoreCompileInputs.cache
+C:\Users\indud\Desktop\CleanArchitectureExample-master\CleanArchitectureExample.Domain\obj\Debug\net5.0\CleanArchitectureExample.Domain.csproj.CopyComplete
+C:\Users\indud\Desktop\CleanArchitectureExample-master\CleanArchitectureExample.Domain\obj\Debug\net5.0\CleanArchitectureExample.Domain.dll
+C:\Users\indud\Desktop\CleanArchitectureExample-master\CleanArchitectureExample.Domain\obj\Debug\net5.0\refint\CleanArchitectureExample.Domain.dll
+C:\Users\indud\Desktop\CleanArchitectureExample-master\CleanArchitectureExample.Domain\obj\Debug\net5.0\CleanArchitectureExample.Domain.pdb
+C:\Users\indud\Desktop\CleanArchitectureExample-master\CleanArchitectureExample.Domain\obj\Debug\net5.0\ref\CleanArchitectureExample.Domain.dll

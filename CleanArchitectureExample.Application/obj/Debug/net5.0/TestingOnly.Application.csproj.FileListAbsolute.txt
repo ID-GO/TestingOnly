@@ -1,0 +1,17 @@
+C:\Users\indud\Desktop\CleanArchitectureExample-master\CleanArchitectureExample.Application\bin\Debug\net5.0\TestingOnly.Application.deps.json
+C:\Users\indud\Desktop\CleanArchitectureExample-master\CleanArchitectureExample.Application\bin\Debug\net5.0\TestingOnly.Application.dll
+C:\Users\indud\Desktop\CleanArchitectureExample-master\CleanArchitectureExample.Application\bin\Debug\net5.0\TestingOnly.Application.pdb
+C:\Users\indud\Desktop\CleanArchitectureExample-master\CleanArchitectureExample.Application\bin\Debug\net5.0\TestingOnly.Domain.Core.dll
+C:\Users\indud\Desktop\CleanArchitectureExample-master\CleanArchitectureExample.Application\bin\Debug\net5.0\TestingOnly.Domain.dll
+C:\Users\indud\Desktop\CleanArchitectureExample-master\CleanArchitectureExample.Application\bin\Debug\net5.0\TestingOnly.Domain.Core.pdb
+C:\Users\indud\Desktop\CleanArchitectureExample-master\CleanArchitectureExample.Application\bin\Debug\net5.0\TestingOnly.Domain.pdb
+C:\Users\indud\Desktop\CleanArchitectureExample-master\CleanArchitectureExample.Application\obj\Debug\net5.0\TestingOnly.Application.csproj.AssemblyReference.cache
+C:\Users\indud\Desktop\CleanArchitectureExample-master\CleanArchitectureExample.Application\obj\Debug\net5.0\TestingOnly.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\indud\Desktop\CleanArchitectureExample-master\CleanArchitectureExample.Application\obj\Debug\net5.0\TestingOnly.Application.AssemblyInfoInputs.cache
+C:\Users\indud\Desktop\CleanArchitectureExample-master\CleanArchitectureExample.Application\obj\Debug\net5.0\TestingOnly.Application.AssemblyInfo.cs
+C:\Users\indud\Desktop\CleanArchitectureExample-master\CleanArchitectureExample.Application\obj\Debug\net5.0\TestingOnly.Application.csproj.CoreCompileInputs.cache
+C:\Users\indud\Desktop\CleanArchitectureExample-master\CleanArchitectureExample.Application\obj\Debug\net5.0\TestingOnly.Application.csproj.CopyComplete
+C:\Users\indud\Desktop\CleanArchitectureExample-master\CleanArchitectureExample.Application\obj\Debug\net5.0\TestingOnly.Application.dll
+C:\Users\indud\Desktop\CleanArchitectureExample-master\CleanArchitectureExample.Application\obj\Debug\net5.0\refint\TestingOnly.Application.dll
+C:\Users\indud\Desktop\CleanArchitectureExample-master\CleanArchitectureExample.Application\obj\Debug\net5.0\TestingOnly.Application.pdb
+C:\Users\indud\Desktop\CleanArchitectureExample-master\CleanArchitectureExample.Application\obj\Debug\net5.0\ref\TestingOnly.Application.dll

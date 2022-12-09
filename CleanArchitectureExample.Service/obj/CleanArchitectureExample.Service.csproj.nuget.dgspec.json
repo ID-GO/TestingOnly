@@ -1,0 +1,289 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\indud\\Desktop\\CleanArchitectureExample-master\\CleanArchitectureExample.Service\\CleanArchitectureExample.Service.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\indud\\Desktop\\CleanArchitectureExample-master\\CleanArchitectureExample.Application\\TestingOnly.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\indud\\Desktop\\CleanArchitectureExample-master\\CleanArchitectureExample.Application\\TestingOnly.Application.csproj",
+        "projectName": "TestingOnly.Application",
+        "projectPath": "C:\\Users\\indud\\Desktop\\CleanArchitectureExample-master\\CleanArchitectureExample.Application\\TestingOnly.Application.csproj",
+        "packagesPath": "C:\\Users\\indud\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\indud\\Desktop\\CleanArchitectureExample-master\\CleanArchitectureExample.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\indud\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\indud\\Desktop\\CleanArchitectureExample-master\\CleanArchitectureExample.Domain.Core\\TestingOnly.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\indud\\Desktop\\CleanArchitectureExample-master\\CleanArchitectureExample.Domain.Core\\TestingOnly.Domain.Core.csproj"
+              },
+              "C:\\Users\\indud\\Desktop\\CleanArchitectureExample-master\\CleanArchitectureExample.Domain\\TestingOnly.Domain.csproj": {
+                "projectPath": "C:\\Users\\indud\\Desktop\\CleanArchitectureExample-master\\CleanArchitectureExample.Domain\\TestingOnly.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\indud\\Desktop\\CleanArchitectureExample-master\\CleanArchitectureExample.Domain.Core\\TestingOnly.Domain.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\indud\\Desktop\\CleanArchitectureExample-master\\CleanArchitectureExample.Domain.Core\\TestingOnly.Domain.Core.csproj",
+        "projectName": "TestingOnly.Domain.Core",
+        "projectPath": "C:\\Users\\indud\\Desktop\\CleanArchitectureExample-master\\CleanArchitectureExample.Domain.Core\\TestingOnly.Domain.Core.csproj",
+        "packagesPath": "C:\\Users\\indud\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\indud\\Desktop\\CleanArchitectureExample-master\\CleanArchitectureExample.Domain.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\indud\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\indud\\Desktop\\CleanArchitectureExample-master\\CleanArchitectureExample.Domain\\TestingOnly.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\indud\\Desktop\\CleanArchitectureExample-master\\CleanArchitectureExample.Domain\\TestingOnly.Domain.csproj",
+        "projectName": "TestingOnly.Domain",
+        "projectPath": "C:\\Users\\indud\\Desktop\\CleanArchitectureExample-master\\CleanArchitectureExample.Domain\\TestingOnly.Domain.csproj",
+        "packagesPath": "C:\\Users\\indud\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\indud\\Desktop\\CleanArchitectureExample-master\\CleanArchitectureExample.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\indud\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\indud\\Desktop\\CleanArchitectureExample-master\\CleanArchitectureExample.Domain.Core\\TestingOnly.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\indud\\Desktop\\CleanArchitectureExample-master\\CleanArchitectureExample.Domain.Core\\TestingOnly.Domain.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\indud\\Desktop\\CleanArchitectureExample-master\\CleanArchitectureExample.Service\\CleanArchitectureExample.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\indud\\Desktop\\CleanArchitectureExample-master\\CleanArchitectureExample.Service\\CleanArchitectureExample.Service.csproj",
+        "projectName": "CleanArchitectureExample.Service",
+        "projectPath": "C:\\Users\\indud\\Desktop\\CleanArchitectureExample-master\\CleanArchitectureExample.Service\\CleanArchitectureExample.Service.csproj",
+        "packagesPath": "C:\\Users\\indud\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\indud\\Desktop\\CleanArchitectureExample-master\\CleanArchitectureExample.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\indud\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\indud\\Desktop\\CleanArchitectureExample-master\\CleanArchitectureExample.Application\\TestingOnly.Application.csproj": {
+                "projectPath": "C:\\Users\\indud\\Desktop\\CleanArchitectureExample-master\\CleanArchitectureExample.Application\\TestingOnly.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Polly": {
+              "target": "Package",
+              "version": "[7.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

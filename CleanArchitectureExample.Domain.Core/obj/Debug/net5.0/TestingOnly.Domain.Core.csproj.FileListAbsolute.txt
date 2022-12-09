@@ -1,0 +1,12 @@
+C:\Users\indud\Desktop\CleanArchitectureExample-master\CleanArchitectureExample.Domain.Core\bin\Debug\net5.0\TestingOnly.Domain.Core.deps.json
+C:\Users\indud\Desktop\CleanArchitectureExample-master\CleanArchitectureExample.Domain.Core\bin\Debug\net5.0\TestingOnly.Domain.Core.dll
+C:\Users\indud\Desktop\CleanArchitectureExample-master\CleanArchitectureExample.Domain.Core\bin\Debug\net5.0\TestingOnly.Domain.Core.pdb
+C:\Users\indud\Desktop\CleanArchitectureExample-master\CleanArchitectureExample.Domain.Core\obj\Debug\net5.0\TestingOnly.Domain.Core.csproj.AssemblyReference.cache
+C:\Users\indud\Desktop\CleanArchitectureExample-master\CleanArchitectureExample.Domain.Core\obj\Debug\net5.0\TestingOnly.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\indud\Desktop\CleanArchitectureExample-master\CleanArchitectureExample.Domain.Core\obj\Debug\net5.0\TestingOnly.Domain.Core.AssemblyInfoInputs.cache
+C:\Users\indud\Desktop\CleanArchitectureExample-master\CleanArchitectureExample.Domain.Core\obj\Debug\net5.0\TestingOnly.Domain.Core.AssemblyInfo.cs
+C:\Users\indud\Desktop\CleanArchitectureExample-master\CleanArchitectureExample.Domain.Core\obj\Debug\net5.0\TestingOnly.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Users\indud\Desktop\CleanArchitectureExample-master\CleanArchitectureExample.Domain.Core\obj\Debug\net5.0\TestingOnly.Domain.Core.dll
+C:\Users\indud\Desktop\CleanArchitectureExample-master\CleanArchitectureExample.Domain.Core\obj\Debug\net5.0\refint\TestingOnly.Domain.Core.dll
+C:\Users\indud\Desktop\CleanArchitectureExample-master\CleanArchitectureExample.Domain.Core\obj\Debug\net5.0\TestingOnly.Domain.Core.pdb
+C:\Users\indud\Desktop\CleanArchitectureExample-master\CleanArchitectureExample.Domain.Core\obj\Debug\net5.0\ref\TestingOnly.Domain.Core.dll

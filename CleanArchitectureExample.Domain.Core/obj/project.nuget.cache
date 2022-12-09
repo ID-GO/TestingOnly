@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WuV6k/aLzoYMaPkDm/xEWar1EH4Fotx2atG/xCsCtYcfAqLlmFHMDu9/LoNTW/0l2Dy68GmlKse4bn0poXZqjw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\indud\\Desktop\\TestingOnly\\CleanArchitectureExample.Domain.Core\\TestingOnly.Domain.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\indud\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
